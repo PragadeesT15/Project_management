@@ -359,37 +359,27 @@ CMD ["gunicorn", "project_management.wsgi:application"]
 3. **AI features not working**
 
    - Solution: Check OPENAI_API_KEY in .env file
-
 4. **Database connection issues**
    - Solution: Verify database settings and ensure database server is running
-
+   - 
 ## 📈 Future Improvements
-
 - [ ] Real-time notifications
 - [ ] File upload for tasks
 - [ ] Advanced reporting and analytics
 - [ ] Integration with external tools (Slack, GitHub)
 - [ ] Mobile app development
 - [ ] Advanced AI features (task prioritization, time estimation)
-
 ## 👥 Contributing
-
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
 ## 📄 License
-
 This project is licensed under the MIT License.
-
 ## 📞 Support
-
 For support and questions, please contact:
-
-- Email: [your-email@example.com]
-- GitHub Issues: [repository-issues-url]
+- Email: [pragadeeswaranthangavel@gmail.com]
 
 ---
 
